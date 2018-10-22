@@ -1,0 +1,5 @@
+https://api.intrinio.com/historical_data?ticker=MSFT&item=close_price&start_date=2018-08-16T12:00:00-04:00&end_date=2018-08-16T12:00:00-04:00
+
+Give me opening price of Microsoft on August 16th 2018
+
+https://api.intrinio.com/historical_data?ticker=AMZN&item=close_price&start_date=2019-08-16T12:00:00-04:00&end_date=2019-08-16T12:00:00-04:00
